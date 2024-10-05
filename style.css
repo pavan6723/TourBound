@@ -1,0 +1,92 @@
+.body_font{
+  font-family: "Frank Ruhl Libre", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.navbar{
+    background-color: #6A9AB0;
+}
+.nav-link{
+    color: #EAD8B1;
+    font-size: 20px;
+}
+.nav_brand{
+    font-weight: 900;
+    color: #FFC107;
+    font-size: 30px;
+}
+.nav-link{
+    font-weight: 700;
+}
+body{
+    background-image: url(images/body_bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.h,.card_head,.card-body{
+    background-image:url(images/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.footer{
+    background-image:url(images/footer_bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.adv{
+    background-image:url(images/feature_bg.avif);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.std{
+    background-image:url(images/jumbo_bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.h_header{
+    color: #198754;
+}
+.h_body{
+    color: #0A58CA;
+    font-weight: 500;
+}
+.adv_head{
+    color: #B02A37;
+}
+.adv_title{
+    color: #DC3545;
+}
+.adv_body{
+    color: #842029;
+    font-size: 20px;
+}
+.card_head{
+    color: #664D03;
+}
+.card-title{
+    color: #CC9A06;
+    font-weight: 900;
+}
+.card-text{
+    color: #997404;
+    font-weight: 600;
+    font-size: 17px;
+}
+.std_head{
+    color: #0A3622;
+    font-weight: bolder;
+}
+.std_text{
+    color: #0D503C;
+    font-weight: 700;
+}
+.foot_head{
+    color: #842029;
+    font-weight: 900;
+    font-size: 23px;
+}
+.seven{
+    color: #B02A37;
+}
+
